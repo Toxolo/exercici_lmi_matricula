@@ -1,0 +1,21 @@
+<matricula>
+  <alumne>
+    <nom>Josep</nom>
+    <cognoms>Segrelles</cognoms>
+    <email>Josepsmorant@gmail.com</email>
+    <adreca>C/Pau picaso</adreca>
+    <telefon>617555</telefon>
+  </alumne>
+  <cicle>DAM</cicle>
+  <curs>Primer</curs>
+<moduls>
+      <modul>Programació</modul>
+    <modul>Bases de Dades</modul>
+    <modul>Sistemes Informàtics</modul>
+    <modul>Entorns de Desenvolupament</modul>
+    <modul>Llenguatges de Marques i Sistemes de Gestió de la Informació</modul>
+    <modul>Projecte Intermodular I</modul>
+    <modul>Anglès Professional I</modul>
+</moduls>
+
+</matricula>
